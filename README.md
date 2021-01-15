@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Firebase
+Tirar este comando luego de haber creado el proyecto en firebase
+ng add @angular/fire
+Si algo falla ejecutar esto comandos
+firebase logout
+firebase login
